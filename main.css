@@ -1,0 +1,91 @@
+
+
+.navy {
+background-color: #211951;
+}
+.purple {
+    background-color: #836fff;
+}
+.mint {
+    background-color: #15f5BA;
+}
+
+.grey{
+    background-color: #F0F3FF;
+}
+
+.navbar-nav a {
+    color: #F0F3FF;
+}
+.navbar-nav a:hover {
+    color: #836fff;
+}
+.navbar-nav a.active {
+    color: #F0F3FF;
+}
+.navbar-brand {
+    color: #f0f0f0;
+}
+navbar-nav a i {
+    color: #f0f0f0;
+}
+.carousel-height {
+    height: 750px;
+}
+.card-img-top {
+    width: 35%;
+    height: 35%;
+    border-radius: 50%;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgb(0, 0,0,0.2);
+}
+.footer-icon {
+    color:#836fff;
+    
+}
+.card {
+    padding: 1.5em .5em .5em;
+    text-align: center;
+    border-radius: 2em;
+    box-shadow: 0 5px 10px rgb(0, 0,0,0.2);
+}
+.card-plan {
+
+}
+.plan-name {
+    font-size: 3em;
+    font-weight: bold;
+}
+.card-title {
+ font-weight: bold;
+ font-size: 1.5em;
+}
+.btn-primary {
+    border-radius: 2em;
+    padding:  .5em 1em;
+    background-color: #836fff;
+    border: none;
+}
+h2 {
+  font-family: 'Roboto';
+  font-size: 3em;
+}
+
+.sobre {
+    background-color: #F0F3FF;
+}
+.title-white {
+color: #F0F3FF;
+}
+.title-purple {
+    color: #836fff;
+}
+.title-mint {
+    color: #15f5BA;
+}
+.title-grey {
+    color: #F0F3FF;
+}
+.title-black {
+    color: #000;
+}
